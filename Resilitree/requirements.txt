@@ -1,0 +1,9 @@
+streamlit
+streamlit-chat
+torch
+torchvision
+Pillow
+numpy
+pyyaml
+openai
+python-dotenv
